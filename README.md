@@ -1,1 +1,1 @@
-# classified-ad-posting
+# classified-auto-ad-posting
